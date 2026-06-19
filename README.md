@@ -65,7 +65,7 @@ Alongside this, I'm building a framework I call Playgrounds of Reality, which I'
 <tr>
 <td><img src="https://img.shields.io/badge/Research-1f6feb?style=flat-square" alt="Research, in progress"/></td>
 <td><b>MA Thesis at TH Köln</b></td>
-<td>Interactive ecosystems that evolve and surprise</td>
+<td>Interactive ecosystems, playable philosophy</td>
 <td><a href="https://cihantoraman.itch.io/">itch.io</a></td>
 </tr>
 </table>
